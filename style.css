@@ -62,11 +62,12 @@ h3 {
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
-  }
-  .secao-background-divisao h3{
+}
+
+.secao-background-divisao h3 {
     font-size: 36px;
     background-color: #fff;
     width: 200px;
     margin: 0 auto;
     border-radius: 20px;
-  }
+}
