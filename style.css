@@ -1,10 +1,11 @@
 * {
-    padding: 0;
+    
     margin: 0;
     font-family: 'Fredoka', sans-serif;
 }
 
 /* Topo */
+
 .secao-topo {
     border-bottom: 1px solid #d5d5d5;
 }
@@ -71,3 +72,7 @@ h3 {
     margin: 0 auto;
     border-radius: 20px;
 }
+
+html, body {box-sizing: border-box;
+    width: 100%;
+    max-width: 1024px;}
